@@ -32,3 +32,10 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.widht-th img{
+    width: 70%;
+    padding: 10%;
+}
+.pot{
+    padding-right: 3%;
+}
